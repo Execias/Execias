@@ -12,7 +12,7 @@
                             )](https://discord.com/users/396638360116002817)
 </p>
 
-
+<img src="https://api.ravencode.live/v1/users/396638360116002817/embed">
 
 ## 💻 Langauges I Know:
 
