@@ -11,7 +11,6 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/396638360116002817
                             )](https://discord.com/users/396638360116002817)
 </p>
-<img src="https://api.ravencode.live/v1/users/396638360116002817/embed">
 
 ## 💻 Langauges I Know:
 
