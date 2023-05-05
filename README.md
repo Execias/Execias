@@ -8,8 +8,8 @@
 <a href="https://github.com/Execias" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=mertexe&color=dc143c"/>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/396638360116002817
-                            )](https://discord.com/users/396638360116002817)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/495191991487954965
+                            )](https://discord.com/users/495191991487954965)
 </p>
 
 ## 💻 Langauges I Know:
